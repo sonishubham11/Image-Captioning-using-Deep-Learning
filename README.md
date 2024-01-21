@@ -28,7 +28,7 @@ python app.py
 
 
 models weights/: Contains the CNN and RNN model implementations.
-data/: Directory for storing the training dataset.
+storage/: Directory for storing the training dataset and sample images
 static/: Static files for the Flask application.
 templates/: HTML templates for the Flask application.
 app.py: Flask application script.
